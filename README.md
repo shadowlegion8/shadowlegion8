@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Abdul Malik Khan 👋
 
-<!--
-**shadowlegion8/shadowlegion8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | SQL | Excel | Power BI  
+📍 Mumbai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a Data Analyst with experience in healthcare data processing, reporting, and dashboard creation.
+
+Currently working in medical billing operations, I analyze large datasets, identify discrepancies, and generate reports to support business decision-making.
+
+---
+
+## 🛠️ Skills
+- SQL  
+- Excel (Advanced)  
+- Power BI  
+- Python (Pandas, NumPy)  
+- Data Cleaning & Analysis  
+
+---
+
+## 📊 Projects
+
+### 🔹 Healthcare Data Analysis Dashboard
+- SQL + Power BI  
+- KPI tracking and reporting  
+- Data cleaning and validation  
+
+### 🔹 Sales Performance Dashboard
+- Analyzed 10,000+ records  
+- Identified trends and insights  
+- Built interactive dashboards  
+
+---
+
+## 📫 Contact
+📧 abdulmalikkhan9908@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/abdul-malik-khan
