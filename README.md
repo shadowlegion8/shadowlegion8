@@ -37,4 +37,4 @@ Currently working in medical billing operations, I analyze large datasets, ident
 
 ## 📫 Contact
 📧 abdulmalikkhan9908@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/abdul-malik-khan
+🔗 LinkedIn: [https://linkedin.com/in/abdul-malik-khan](https://www.linkedin.com/in/abdul-malik-khan08)
